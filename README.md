@@ -2,7 +2,7 @@
 Assembly-Export for IDA 9.0 Pro. **Assemport** exports all functions separately in an assembly file. This enables further processing by external tools such as an AI.
 
 ## Installation
-Just download the `ZIP` file and unpack it to your `IDA 9.0` installations folder.
+Just download the `ZIP` file and unpack it to your `IDA 9.0`-**Plugins** installations folder.
 
 > [!NOTE]
 > The default installation folder of plugins is `C:\Program Files\IDA Professional 9.0\plugins`
