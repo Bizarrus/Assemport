@@ -1,0 +1,8 @@
+{
+    "IDAMetadataDescriptorVersion": 1,
+    "plugin" :
+    {
+      "name" : "assemport",
+      "entryPoint" : "main.py"
+    }
+  }
