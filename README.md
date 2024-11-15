@@ -1,5 +1,10 @@
-# Assemport
-Assembly-Export for IDA 9.0 Pro. **Assemport** exports all functions separately in an assembly file. This enables further processing by external tools such as an AI.
+<p align="center">
+  <img width="200" height="200" src="https://github.com/Bizarrus/Assemport/blob/main/assemport/Screenshots/Logo.png?raw=true" />
+</p>
+
+Assembly-Export for `IDA 9.0 Pro`. **Assemport** exports all functions separately in an assembly file. This enables further processing by external tools such as an AI.
+
+> The name **Assemport** is a combination of **Assem**bly and Ex**port**.
 
 ## 💽 Installation
 Just download the `ZIP` file and unpack it to your `IDA 9.0`-**Plugins** installations folder.
