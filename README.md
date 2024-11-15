@@ -4,7 +4,7 @@
 
 Assembly-Export for `IDA 9.0 Pro`. **Assemport** exports all functions separately in an assembly file. This enables further processing by external tools such as an AI.
 
-> The name **Assemport** is a combination of **Assem**bly and Ex**port**.
+> The name "**Assemport**" is a combination of **Assem**bly and Ex**port**.
 
 ## 💽 Installation
 Just download the `ZIP` file and unpack it to your `IDA 9.0`-**Plugins** installations folder.
@@ -21,3 +21,8 @@ All assemblys will be stored in the current inspected executable folder under `/
 ![Loading](https://github.com/Bizarrus/Assemport/blob/main/assemport/Screenshots/Box.png?raw=true)
 
 ![Output](https://github.com/Bizarrus/Assemport/blob/main/assemport/Screenshots/Output.png?raw=true)
+
+> [!TIP]
+> **Assemport** is available on [Hex-Rays: Plugin repository](https://plugins.hex-rays.com), if the buggy saving of plugin data has been fixed by Hexrays:
+> 
+> [plugins.hex-rays.com/Assemport](https://plugins.hex-rays.com/Assemport)
