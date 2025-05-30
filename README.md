@@ -23,6 +23,6 @@ All assemblys will be stored in the current inspected executable folder under `/
 ![Output](https://github.com/Bizarrus/Assemport/blob/main/Screenshots/Output.png?raw=true)
 
 > [!TIP]
-> **Assemport** is available on [Hex-Rays: Plugin repository](https://plugins.hex-rays.com), if the buggy saving of plugin data has been fixed by Hexrays:
+> **Assemport** is available on [Hex-Rays: Plugin repository](https://plugins.hex-rays.com):
 > 
-> [plugins.hex-rays.com/Assemport](https://plugins.hex-rays.com/Assemport)
+> [plugins.hex-rays.com/bizarrus/assemport](https://plugins.hex-rays.com/bizarrus/assemport)
