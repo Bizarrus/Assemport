@@ -3,7 +3,7 @@
     "plugin": {
         "name":        "assemport",
         "entryPoint":  "main.py",
-        "categories":  [ "disassembly-and-processor-modules", "decompilation" ],
+        "categories":  [ "disassembly-and-processor-modules", "other", "decompilation", "api-scripting-and-automation", "collaboration-and-productivity" ],
         "logoPath":    "Screenshots/Logo.png",
         "idaVersions": ">=9.0",
         "description": "Assembly-Export for IDA 9.0 Pro. Assemport exports all functions separately in an assembly file. This enables further processing by external tools such as an AI.",
