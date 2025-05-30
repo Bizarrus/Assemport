@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="200" height="200" src="https://github.com/Bizarrus/Assemport/blob/main/assemport/Screenshots/Logo.png?raw=true" />
+  <img width="200" height="200" src="https://github.com/Bizarrus/Assemport/blob/main/Screenshots/Logo.png?raw=true" />
 </p>
 
 Assembly-Export for `IDA 9.0 Pro`. **Assemport** exports all functions separately in an assembly file. This enables further processing by external tools such as an AI.
@@ -18,9 +18,9 @@ Open your `IDA`-Project and type the `F12`-Key.
 All assemblys will be stored in the current inspected executable folder under `/Assemport/`.
 
 ## 🖼️ Screenshot
-![Loading](https://github.com/Bizarrus/Assemport/blob/main/assemport/Screenshots/Box.png?raw=true)
+![Loading](https://github.com/Bizarrus/Assemport/blob/main/Screenshots/Box.png?raw=true)
 
-![Output](https://github.com/Bizarrus/Assemport/blob/main/assemport/Screenshots/Output.png?raw=true)
+![Output](https://github.com/Bizarrus/Assemport/blob/main/Screenshots/Output.png?raw=true)
 
 > [!TIP]
 > **Assemport** is available on [Hex-Rays: Plugin repository](https://plugins.hex-rays.com), if the buggy saving of plugin data has been fixed by Hexrays:
