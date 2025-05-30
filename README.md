@@ -12,6 +12,11 @@ Just download the `ZIP` file and unpack it to your `IDA 9.0`-**Plugins** install
 > [!NOTE]
 > The default installation folder of plugins is `C:\Program Files\IDA Professional 9.0\plugins`
 
+The simplest way is using **git**:
+```bash
+git clone https://github.com/Bizarrus/Assemport.git "C:\Program Files\IDA Professional 9.0\plugins\assemport"
+```
+
 ## 💻 Usage
 Open your `IDA`-Project and type the `F12`-Key.
 
